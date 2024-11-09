@@ -1,0 +1,7 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore other temporary files (optional)
+dist/       # Ignore build directory if not ready for upload
+.DS_Store   # MacOS system files
+.env        # Environment variables, if any
